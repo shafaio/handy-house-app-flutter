@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063122341929",
+    "project_id": "app-nih",
+    "storage_bucket": "app-nih.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063122341929:android:bc0966a5379f4ea9364c38",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063122341929-kns5n3i0m7hft3okobgemo6dqsko129o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD14lMyjBLEQbijxnk7du2HjM6xD00b8Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063122341929-kns5n3i0m7hft3okobgemo6dqsko129o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
